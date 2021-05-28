@@ -19,5 +19,6 @@ namespace Company_Shkadun
         public Empoyee[] CompanyEmpoyees { get; set; }
 
         private int test = 0;
+        private int test1 = 0;
     }
 }
