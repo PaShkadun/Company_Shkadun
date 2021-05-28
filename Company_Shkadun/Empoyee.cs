@@ -13,5 +13,6 @@ namespace Company_Shkadun
         public int cash { get; set; }
         public int profit { get; set; }
         public int salary { get; set; }
+        public int salaryt { get; set; }
     }
 }
