@@ -17,5 +17,7 @@ namespace Company_Shkadun
         public string NameCompany { get; set; }
         public int CompanyMoney { get; set; }
         public Empoyee[] CompanyEmpoyees { get; set; }
+
+        private int test = 0;
     }
 }
